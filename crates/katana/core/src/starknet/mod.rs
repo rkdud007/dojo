@@ -24,6 +24,7 @@ pub mod block;
 pub mod config;
 pub mod contract;
 pub mod event;
+pub mod trace;
 pub mod transaction;
 
 use block::{StarknetBlock, StarknetBlocks};
